@@ -2,7 +2,7 @@
 
 A new Flutter plugin.
 
-This plugi still under-development.Some functionality might not be work.
+This plugin still under-development.Some functionality might not be work.
 
 ## Getting Started
 
